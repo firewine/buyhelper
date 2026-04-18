@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+pw-user-data/
+.venv/
